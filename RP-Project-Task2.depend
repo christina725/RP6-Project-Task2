@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1539249873 source:c:\users\christina\documents\studium\5. semester\c\avrtest\rp-project-task2\fuse.c
+	<avr/io.h>
+
+1539253526 source:c:\users\christina\documents\studium\5. semester\c\avrtest\rp-project-task2\main.c
+	"RP6RobotBaseLib.h"
+	<stdlib.h>
+
+1538494538 source:c:\users\christina\documents\studium\5. semester\c\avrtest\rp-project-task2\rp6lib\rp6base\rp6robotbaselib.c
+	"RP6RobotBaseLib.h"
+
+1538494538 c:\users\christina\documents\studium\5. semester\c\avrtest\rp-project-task2\rp6lib\rp6base\rp6robotbaselib.h
+	"RP6RobotBase.h"
+	"RP6Config.h"
+	"RP6uart.h"
+	<avr/sleep.h>
+	<stdlib.h>
+
+1538494538 c:\users\christina\documents\studium\5. semester\c\avrtest\rp-project-task2\rp6lib\rp6base\rp6robotbase.h
+	<avr/io.h>
+	<avr/interrupt.h>
+
+1538494539 source:c:\users\christina\documents\studium\5. semester\c\avrtest\rp-project-task2\rp6lib\rp6common\rp6i2cslavetwi.c
+	"RP6I2CslaveTWI.h"
+
+1538494539 c:\users\christina\documents\studium\5. semester\c\avrtest\rp-project-task2\rp6lib\rp6common\rp6i2cslavetwi.h
+	<stdint.h>
+	<avr/interrupt.h>
+
+1538494539 source:c:\users\christina\documents\studium\5. semester\c\avrtest\rp-project-task2\rp6lib\rp6common\rp6uart.c
+	"RP6uart.h"
+
+1538494539 c:\users\christina\documents\studium\5. semester\c\avrtest\rp-project-task2\rp6lib\rp6common\rp6uart.h
+	<avr/pgmspace.h>
+	<stdlib.h>
+	<string.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+
+1538494538 c:\users\christina\documents\studium\5. semester\c\avrtest\rp-project-task2\rp6lib\rp6common\rp6config.h
+
+1538494538 source:c:\users\christina\documents\studium\5. semester\c\rp6-project-task2\rp6lib\rp6base\rp6robotbaselib.c
+	"RP6RobotBaseLib.h"
+
+1538494538 c:\users\christina\documents\studium\5. semester\c\rp6-project-task2\rp6lib\rp6base\rp6robotbaselib.h
+	"RP6RobotBase.h"
+	"RP6Config.h"
+	"RP6uart.h"
+	<avr/sleep.h>
+	<stdlib.h>
+
+1538494538 c:\users\christina\documents\studium\5. semester\c\rp6-project-task2\rp6lib\rp6base\rp6robotbase.h
+	<avr/io.h>
+	<avr/interrupt.h>
+
+1538494539 source:c:\users\christina\documents\studium\5. semester\c\rp6-project-task2\rp6lib\rp6common\rp6i2cslavetwi.c
+	"RP6I2CslaveTWI.h"
+
+1538494539 c:\users\christina\documents\studium\5. semester\c\rp6-project-task2\rp6lib\rp6common\rp6i2cslavetwi.h
+	<stdint.h>
+	<avr/interrupt.h>
+
+1538494539 source:c:\users\christina\documents\studium\5. semester\c\rp6-project-task2\rp6lib\rp6common\rp6uart.c
+	"RP6uart.h"
+
+1538494539 c:\users\christina\documents\studium\5. semester\c\rp6-project-task2\rp6lib\rp6common\rp6uart.h
+	<avr/pgmspace.h>
+	<stdlib.h>
+	<string.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+
+1538494538 c:\users\christina\documents\studium\5. semester\c\rp6-project-task2\rp6lib\rp6common\rp6config.h
+
+1539341666 source:c:\users\christina\documents\studium\5. semester\c\rp6-project-task2\main.c
+	"RP6RobotBaseLib.h"
+	<stdlib.h>
+
